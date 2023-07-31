@@ -53,6 +53,8 @@ Before running the application, ensure you have the following software installed
 ![image](https://github.com/UDAYAGIRICHARAN/Education-Loan-Portal/assets/67089878/741eeb89-243a-4734-a2cf-a9f028b6146c)
 ![image](https://github.com/UDAYAGIRICHARAN/Education-Loan-Portal/assets/67089878/b1c84be1-f00c-4978-a55b-cd90c41c1670)
 ![image](https://github.com/UDAYAGIRICHARAN/Education-Loan-Portal/assets/67089878/baeffcda-6b88-4b22-a6b2-fc6c803b81c2)
+![image](https://github.com/UDAYAGIRICHARAN/Education-Loan-Portal/assets/67089878/9a14306c-2c5e-481b-b441-0fa6561db23b)
+![image](https://github.com/UDAYAGIRICHARAN/Education-Loan-Portal/assets/67089878/489d339b-977c-4209-8909-2accec26ba95)
 
 ## Running the Application
 1. Make sure both the frontend (Angular) and backend (Spring Boot) servers are running.
